@@ -5,11 +5,11 @@ public class Cash_pay implements IPay {
 
     public Receipt receipt;
 
-    public int Calculate_cost() {
+    public void Calculate_cost(int cost) {
 
     }
 
-    public void Return_change() {
+    public void Return_change(int change) {
 
     }
 

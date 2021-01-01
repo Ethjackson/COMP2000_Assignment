@@ -2,11 +2,8 @@ package com;
 
 public class Admins {
     public String Item_orders;
-
     public String Name;
-
     public String Password;
-
     public Item_orders item_orders;
 
     public void Login(String Name, String Password) {
